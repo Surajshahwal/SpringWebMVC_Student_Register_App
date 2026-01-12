@@ -54,13 +54,6 @@ JDBC URL: `jdbc:h2:mem:testdb`
 - Pagination and Sorting
 - Export to Excel / PDF
 
----
-
-## Screenshots (optional)
-
-(Add screenshots later if you want)
-
----
 
 ## Author
 
