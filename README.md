@@ -44,7 +44,7 @@ The registered student data is stored in an H2 in-memory database and displayed 
 ## Database Details
 
 H2 Console URL: `http://localhost:8080/h2-console`  
-JDBC URL: `jdbc:h2:mem:testdb`  
+
 
 ---
 
