@@ -68,5 +68,14 @@ public class StudentController {
 		return "data";
 
 	}
+	@GetMapping("/viewsStudent")
+	/*public String viewStudent(Model model) {
+
+		List<StudentEntity> studentList = repo.findAll();
+		model.addAttribute("students", studentList);
+
+		return "data";
+
+	}*/
 
 }

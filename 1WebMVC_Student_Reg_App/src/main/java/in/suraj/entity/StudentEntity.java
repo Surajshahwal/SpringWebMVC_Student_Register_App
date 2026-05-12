@@ -17,6 +17,7 @@ public class StudentEntity {
 	private String gender;
 	private String course;
 	private String timings;
+	//private rajshmani 
 
 	@Override
 	public String toString() {
