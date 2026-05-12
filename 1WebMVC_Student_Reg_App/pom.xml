@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.suraj</groupId>
 	<artifactId>1WebMVC_Student_Reg_App</artifactId>
-	<version>0.0.1-RELEASEW</version>
+	<version>0.0.1-RELEASE</version>
 	<packaging>war</packaging>
 	<name>1WebMVC_Student_Reg_App</name>
 	<description>Application</description>
